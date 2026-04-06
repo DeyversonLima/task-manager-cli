@@ -1,4 +1,5 @@
 # TaskManager CLI
+![CI](https://github.com/DeyversonLima/task-manager-cli/actions/workflows/ci.yml/badge.svg)
 
 ## Descrição
 O TaskManager CLI é uma aplicação simples de linha de comando desenvolvida para ajudar usuários a organizarem suas tarefas do dia a dia, reduzindo esquecimentos e melhorando a produtividade.
