@@ -29,6 +29,6 @@ A aplicação permite cadastrar, listar, concluir e remover tarefas de forma sim
 ## Como instalar
 
 ```bash
-git clone https://github.com/DeyversonLima/task-manager.git
+git clone https://github.com/DeyversonLima/task-manager-cli
 cd task-manager
 pip install -r requirements.txt
