@@ -27,6 +27,18 @@ A aplicação permite cadastrar, listar, concluir e remover tarefas de forma sim
 - Flake8
 - GitHub Actions
 
+## Nova funcionalidade
+
+A aplicação agora consome uma API pública de cotação do dólar em tempo real.
+
+API utilizada:
+https://economia.awesomeapi.com.br
+
+## Como executar
+
+```bash
+python -m app.main
+
 ## Como instalar
 
 ```bash
