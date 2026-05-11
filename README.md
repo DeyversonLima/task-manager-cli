@@ -33,3 +33,15 @@ A aplicação permite cadastrar, listar, concluir e remover tarefas de forma sim
 git clone https://github.com/DeyversonLima/task-manager-cli
 cd task-manager
 pip install -r requirements.txt
+
+## Nova funcionalidade
+
+A aplicação agora consome uma API pública de cotação do dólar em tempo real.
+
+API utilizada:
+https://economia.awesomeapi.com.br
+
+## Como executar
+
+```bash
+python -m app.main
