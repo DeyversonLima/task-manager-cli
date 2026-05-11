@@ -1,5 +1,5 @@
 import json
-from src.task_manager import add_task, list_tasks, complete_task
+from app.task_manager import add_task, list_tasks, complete_task
 
 TEST_FILE = "data/tasks.json"
 
